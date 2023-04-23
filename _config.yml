@@ -1,21 +1,20 @@
 # Site settings
-title: Your awesome title
+title: Hien Vu 
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ I am a Ph.D. student at the NLP-lab - Nara Institute of Science and Technology (NAIST), with a passion for cutting-edge technology in the field of Natural Language Processing (NLP) and Deep Learning (DL). My research interests focus mainly on the areas of Machine Translation, Controlled Text Generation, Deep nets and other branches onf NLP. I am excited to exploring new methodologies and algorithms that can push the boundaries of NLP, with a particular focus on developing novel approaches to improve machine translation and enhance the ability of machines to understand and interpret natural language.
+
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://hienvuhuy.github.io" # the base hostname & protocol for your site
+twitter_username: hienvuhuy
+github_username:  hienvuhuy
 
 # Build settings
 markdown: kramdown
 
 # Other options
 permalink: blog/:year/:month/:title
-job.title: "Assistant Professor"
+job.title: "Ph.D. Student"
 excerpt_separator: "<!--more-->"
 
 # SEO stuff
