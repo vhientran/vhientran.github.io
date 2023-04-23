@@ -10,7 +10,7 @@
 - title: "Miscellany"
   href: "/miscellany/"
   subcategories:
-    - subtitle: "Item 1"
+    - subtitle: "NLP Resources"
       subhref: "/miscellany/item-1/"
-    - subtitle: "Item 2"
+    - subtitle: "Others"
       subhref: "/miscellany/item-2/"
