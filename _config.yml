@@ -5,6 +5,8 @@ description: I am a Ph.D. student at NLP lab (NAIST) # this means to ignore newl
  
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://hienvuhuy.github.io" # the base hostname & protocol for your site
+
+google_scholar_id: Ad7qF-YAAAAJ
 twitter_username: hienvuhuy
 github_username:  hienvuhuy
 
