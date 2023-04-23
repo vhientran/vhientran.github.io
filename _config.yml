@@ -2,8 +2,7 @@
 title: Hien Vu 
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
- I am a Ph.D. student at the NLP-lab - Nara Institute of Science and Technology (NAIST), with a passion for cutting-edge technology in the field of Natural Language Processing (NLP) and Deep Learning (DL). My research interests focus mainly on the areas of Machine Translation, Controlled Text Generation, Deep nets and other branches onf NLP. I am excited to exploring new methodologies and algorithms that can push the boundaries of NLP, with a particular focus on developing novel approaches to improve machine translation and enhance the ability of machines to understand and interpret natural language.
-
+ 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://hienvuhuy.github.io" # the base hostname & protocol for your site
 twitter_username: hienvuhuy
