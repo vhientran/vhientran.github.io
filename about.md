@@ -6,5 +6,5 @@ permalink: /about/
 
 {% include image.html url="/images/octojekyll.png" caption="Octojekyll." width=300 align="right" %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit mattis nulla eu cursus. Fusce finibus, orci sit amet tincidunt fermentum, risus ante pharetra nisi, eget tempus tellus tellus ut est. Nunc tempus cursus arcu mattis ultricies. Cras volutpat purus et lectus facilisis tempor. Suspendisse at lorem feugiat, feugiat massa vel, scelerisque dolor. Proin justo nisl, mattis eu sapien in, efficitur fringilla nulla. Phasellus placerat, lacus in venenatis tristique, risus dolor eleifend felis, vitae finibus augue nibh ut libero. Morbi sit amet tincidunt lorem.
+I am a Ph.D. student at the NLP-lab - Nara Institute of Science and Technology (NAIST), with a passion for cutting-edge technology in the field of Natural Language Processing (NLP) and Deep Learning (DL). My research interests focus mainly on the areas of Machine Translation, Controlled Text Generation, Deep nets and other branches onf NLP. I am excited to exploring new methodologies and algorithms that can push the boundaries of NLP, with a particular focus on developing novel approaches to improve machine translation and enhance the ability of machines to understand and interpret natural language.
 
