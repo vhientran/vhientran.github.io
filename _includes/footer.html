@@ -28,7 +28,16 @@
             </a>
           </li>
           {% endif %}
-
+          
+          
+          {% if site.google_scholar_id %}
+          <li>
+             <a href="https://scholar.google.com/citations?user={{ site.google_scholar_id }}">
+                <i class="ai ai-google-scholar" style="color:gray"></i> Google Scholar
+             </a>
+          </li>
+          {% endif %}
+          
           {% if site.twitter_username %}
           <li>
             <a href="https://twitter.com/{{ site.twitter_username }}">
