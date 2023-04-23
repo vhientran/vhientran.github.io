@@ -1,7 +1,7 @@
 # Site settings
 title: Hien Vu 
 email: hienvuhuy at gmail
-description: 8916-5 Takayama, Ikoma, Nara # this means to ignore newlines until "baseurl:"
+description: I am a Ph.D. student at NLP lab (NAIST) # this means to ignore newlines until "baseurl:"
  
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://hienvuhuy.github.io" # the base hostname & protocol for your site
