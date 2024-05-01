@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-permalink: /blog/
+title: News
+permalink: /news/
 ---
 
 My personal posts about works, life, etc. Hopefully they are cool to you.
