@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello world!"
+title:  "Accepted paper at TACL"
 date:   2024-05-01 00:00:07
 categories: Acceptance
 ---
