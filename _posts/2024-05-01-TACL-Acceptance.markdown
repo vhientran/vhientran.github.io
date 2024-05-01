@@ -7,7 +7,7 @@ categories: Acceptance
 
 Just a good news.
 My TACL paper "Context-Aware Machine Translation with Source Coreference Explanation" is accepted and published.
-The pre-print version is at here: https://arxiv.org/abs/2404.19505
+The pre-print version is at here: [https://arxiv.org/abs/2404.19505](https://arxiv.org/abs/2404.19505)
 
 <!-- The welcome page -->
 
