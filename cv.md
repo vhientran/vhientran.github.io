@@ -91,6 +91,7 @@ permalink: /cv/
 -  Huy Hien Vu, Hidetaka Kamigaito and Taro Watanabe. 2024. Context-Aware Machine Translation with Source Coreference Explanation. _Transactions of the Association for Computational Linguistics (to appear)._
 
 #### Conference
+-  Huy Hien Vu, Hidetaka Kamigaito and Taro Watanabe. 2024. Coreference-Guided Neural Machine Translation. _Under review._
 - Hiroyuki Deguchi, Kenji Imamura, Masahiro Kaneko, Yuto Nishida, Yusuke Sakai, Justin Vasselli, Huy Hien Vu, Taro Watanabe:NAIST-NICT-TIT WMT22 General MT Task Submission. _Proceedings of the Seventh Conference on Machine Translation (WMT). 2022: 244 – 250_
 - Hoang–Quan Nguyen, Thuan–Minh Nguyen, Huy–Hien Vu, Van–Vinh Nguyen, Phuong–Thai Nguyen, Kieu–Hue Tran, Khac–Quy Dinh: An effective coverage approach for attention-based neural machine translation. _NAFOSTED Conference on Information and Computer Science (NICS). 2019: 240 – 245_
 - Minh–Thuan Nguyen, Van TanBui, Huy–Hien Vu, Phuong–Thai Nguven, Chi–Mai Luong: Enhancing the quality of Phrase-table in Statistical Machine Translation for Less-Common and Low-Resource Languages. _International Conference on Asian Language Processing (IALP). 2018: 165 – 170_
