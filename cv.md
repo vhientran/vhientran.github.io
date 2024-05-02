@@ -43,7 +43,10 @@ permalink: /cv/
 
 - 2012 – 2019: Researcher
   - University of Engineering and Technology, Vietnam National University – supervised by Assoc. Prof. Phuong-Thai Nguyen
-    - Japanese–Vietnamese Machine Translation System in Business Do- mains(granted by Department of Science and Technology - Hanoi city) We developed a specialized translation system targeting small and medium enterprises in diverse business sectors, focusing on accuracy and ambiguity resolution in cross-cultural communications. [paper] 
+    - Japanese–Vietnamese Machine Translation System in Business Do- mains(granted by Department of Science and Technology - Hanoi city) We developed a specialized translation system targeting small and medium enterprises in diverse business sectors, focusing on accuracy and ambiguity resolution in cross-cultural communications. [\[paper\].](https://ieeexplore.ieee.org/abstract/document/9023793)
+    - Vietnamese Wordnet We proposed a two-phase methodology for constructing the Vietnamese WordNet, leveraging existing linguistic resources and preserving unique Vietnamese linguistic and cultural nuances. [\[paper\].](https://aclanthology.org/2016.gwc-1.38.pdf)
+    - Statistical Machine Translation for [FPT Company](https://fpt.vn): Developed a domain- specific system, sponsored by FPT Company, to streamline Japanese document translation, effectively halving the workload for human translators
+    - Using Word Sense Disambiguation in Statistical Machine Translation system We proposed an integration of a Word Sense Disambiguation module into the Statistical Machine Translation system, achieving precise word selection based on context for improved translation accuracy. [\[paper\].](https://aclanthology.org/I13-1143.pdf)
 
 
 
