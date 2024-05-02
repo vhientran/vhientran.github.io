@@ -6,7 +6,8 @@ permalink: /cv/
 
 
 ## Curriculum Vitae
-- Vũ Huy Hiển (Huy Hien Vu, Huy-Hien Vu, Vu Huy Hien or Hien Vu Huy)
+- Vũ Huy Hiển (Huy Hien Vu)
+  -  Known as Huy-Hien Vu, Vu Huy Hien or Hien Vu Huy
 - Ph.d candidate at Natural Language Processing Laboratory
   - Division of Information Science
   - Nara Institute of Science and Technology, 8916-5 Takayama, Ikoma, Nara. 630-0192 JAPAN.
