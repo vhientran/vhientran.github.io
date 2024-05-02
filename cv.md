@@ -71,6 +71,30 @@ permalink: /cv/
     - Efficient Vietnamese Word Segmentation for Social Networks: Developed a high-performance word segmentation system tailored for processing Social Network Services data, optimizing for speed and accuracy in Vietnamese text analysis.
     - Sentiment Analysis System for Advertising Insights: Engineered an advanced sentiment analysis platform, providing key advertising insights through in-depth emotional and contextual evaluation of textual data.
 
+### Awards
+- 2019 – 2024: Japanese Government Scholarship (MEXT)
+- 2012 – 2013: Pony Chung Scholarship for Excellent Researchers and Master Students
+- 2011 – 2012: TOSHIBA Scholarship for Excellent Master Students
+- 2007 – 2011: Title of Outstanding Students, by UET/Coltech – Vietnam National University Hanoi
+- 2009 – 2010: The consolation prize in “Student’s Scientific Research” at University of Engineering and Technology – Vietnam National University Hanoi
+- 2007 – 2011: Vietnamese Government Fellowship for excellent students in the Honor program 
+- 2007 – 2011: Vietnamese Government Fellowship for excellent students
+
+### Certificates
+- 2010: IBM Certified Solution Designer – Object Oriented Analysis and Design, UML ver.2
+- 2010: JITEC’s Fundamental Information Technology Engineer Skill Standards (FE certificate)
+
+### Publications
+#### Journal
+-  Huy Hien Vu, Hidetaka Kamigaito and Taro Watanabe. 2024. Context-Aware Machine Translation with Source Coreference Explanation. _Transactions of the Association for Computational Linguistics (to appear)._
+
+
+
+
+
+
+
+
 You can also [download the detail PDF here](https://google.com)
 <!-- I embed a current version of my CV below. You can also [download the PDF here](https://www.dropbox.com/s/30ah9tgxevj1vl9/svm-cv.pdf). -->
 
