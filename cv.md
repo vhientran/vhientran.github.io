@@ -19,7 +19,7 @@ permalink: /cv/
 ### Education
 
 - 2021 - present: Ph.d candidate, _Nara Institute of Science and Technology (NAIST), Nara, Japan._
-  - [Natural Language Processing Lab][https://nlp.naist.jp/en] – Division of Information Science
+  - [Natural Language Processing Lab](https://nlp.naist.jp/en) – Division of Information Science
   - Advisors: Prof. [Taro Watanabe](https://sites.google.com/site/tarowtnb/) and Assoc. Prof. [Hidetaka Kamigaito](https://sites.google.com/site/hidetakakamigaito/home)
 
 - 2019 - 2021: Research Student, _University of Tokyo, Tokyo, Japan._
@@ -100,7 +100,7 @@ permalink: /cv/
 
 
 
-You can also [download the detail PDF here](https://google.com)
+You can also [download the detail PDF here](https://u.pcloud.link/publink/show?code=XZpmXS0Zahskiz338wX5wYGwqLmKRjscXaVy)
 <!-- I embed a current version of my CV below. You can also [download the PDF here](https://www.dropbox.com/s/30ah9tgxevj1vl9/svm-cv.pdf). -->
 
 <!-- {% include embedpdf.html code="30ah9tgxevj1vl9/svm-cv.pdf" width=100 height=800 %} -->
