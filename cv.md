@@ -7,7 +7,7 @@ permalink: /cv/
 
 ## Curriculum Vitae
 - Vũ Huy Hiển (Huy Hien Vu)
-  -  Known as Huy-Hien Vu, Vu Huy Hien or Hien Vu Huy
+  -  Known as Hien Vu, Huy-Hien Vu, Vu Huy Hien or Hien Vu Huy
   -  Email: hienvuhuy [at] gmail.com / vu.huy\_hien.va9 [at] is.naist.jp
 - Ph.d candidate at [Natural Language Processing Lab](https://nlp.naist.jp/en)
   - Division of Information Science
