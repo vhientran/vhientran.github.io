@@ -37,12 +37,12 @@ permalink: /cv/
 ### Work and Research Experience
 #### Research Experience
 - 2021 - present: Research Graduate Student
-  - Nara Institute of Science and Technology (NAIST) – supervised by Prof. Taro Watanabe and Assoc. Prof. Hidetaka Kamigaito
+  - Nara Institute of Science and Technology (NAIST) – supervised by Prof. [Taro Watanabe](https://sites.google.com/site/tarowtnb/) and Assoc. Prof. [Hidetaka Kamigaito](https://sites.google.com/site/hidetakakamigaito/home)
     - Coreference-guided Neural Machine Translation We proposed a novel method to exploit coreference information in the decoder side of the encoder–decoder based machine translation system at document level.
     - Context-Aware Machine Translation with Coreference Information We introduced a model that explains the decisions made for translation by predicting coreference features in the source input [\[paper\].](https://arxiv.org/abs/2404.19505)
 
 - 2012 – 2019: Researcher
-  - University of Engineering and Technology, Vietnam National University – supervised by Assoc. Prof. Phuong-Thai Nguyen
+  - University of Engineering and Technology, Vietnam National University – supervised by Assoc. Prof. [Phuong-Thai Nguyen](http://uet.vnu.edu.vn/~thainp/index.htm)
     - Japanese–Vietnamese Machine Translation System in Business Do- mains(granted by Department of Science and Technology - Hanoi city) We developed a specialized translation system targeting small and medium enterprises in diverse business sectors, focusing on accuracy and ambiguity resolution in cross-cultural communications. [\[paper\].](https://ieeexplore.ieee.org/abstract/document/9023793)
     - Vietnamese Wordnet We proposed a two-phase methodology for constructing the Vietnamese WordNet, leveraging existing linguistic resources and preserving unique Vietnamese linguistic and cultural nuances. [\[paper\].](https://aclanthology.org/2016.gwc-1.38.pdf)
     - Statistical Machine Translation for [FPT Company](https://fpt.vn): Developed a domain- specific system, sponsored by FPT Company, to streamline Japanese document translation, effectively halving the workload for human translators
@@ -57,7 +57,20 @@ permalink: /cv/
   - [Augmented Human Communication Laboratory (AHC)](https://ahcweb01.naist.jp/en/)
   - Advisors: Prof. [Satoshi Nakamura](https://ahclab.naist.jp/Prof.Nakamura/index_e.html) and Asst. Prof. [Graham Neubig](https://www.phontron.com/index.php)
     - Gathering bilingual corpora for uncommon language pairs
-  
+
+#### Teaching Experience
+- 2011 - 2016: Teaching Assistant
+  - University of Engineering and Technology, Vietnam National University
+  - Classes: Fundamental Informatics, Theory of Information, Compiler, Advanced Pro- gramming, Data structure and Algorithms, and Real-time Programming for embedded systems
+
+#### Other Experience
+- 2014 - 2015: Natural Language Processing Engineer
+  - Datasection Vietnam, Hanoi – South Asian Branch of D.A.Consortium Inc., Japan.
+  - Position Responsibilities:
+
+    - Efficient Vietnamese Word Segmentation for Social Networks: Developed a high-performance word segmentation system tailored for processing Social Network Services data, optimizing for speed and accuracy in Vietnamese text analysis.
+    - Sentiment Analysis System for Advertising Insights: Engineered an advanced sentiment analysis platform, providing key advertising insights through in-depth emotional and contextual evaluation of textual data.
+
 You can also [download the detail PDF here](https://google.com)
 <!-- I embed a current version of my CV below. You can also [download the PDF here](https://www.dropbox.com/s/30ah9tgxevj1vl9/svm-cv.pdf). -->
 
