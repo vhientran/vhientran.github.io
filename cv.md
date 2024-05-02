@@ -19,9 +19,9 @@ permalink: /cv/
 
 - 2021 - present: Ph.d candidate, _Nara Institute of Science and Technology (NAIST), Nara, Japan._
   - [Natural Language Processing Lab][https://nlp.naist.jp/en] – Division of Information Science
-  - Advisor: Prof. [Taro Watanabe](https://sites.google.com/site/tarowtnb/) and Assoc. Prof. [Hidetaka Kamigaito](https://sites.google.com/site/hidetakakamigaito/home)
+  - Advisors: Prof. [Taro Watanabe](https://sites.google.com/site/tarowtnb/) and Assoc. Prof. [Hidetaka Kamigaito](https://sites.google.com/site/hidetakakamigaito/home)
 
-- 2019 - 2021: Research Student, _University of Tokyo, Tokyo, Japan. _
+- 2019 - 2021: Research Student, _University of Tokyo, Tokyo, Japan._
   - [Miyao Group](https://mynlp.is.s.u-tokyo.ac.jp/en/) – Department of Computer Science, Graduate School of Information Science and Technology
   - Advisor: Prof. [Yusuke Miyao](http://researchmap.jp/yusuke/)
 
@@ -48,9 +48,15 @@ permalink: /cv/
     - Statistical Machine Translation for [FPT Company](https://fpt.vn): Developed a domain- specific system, sponsored by FPT Company, to streamline Japanese document translation, effectively halving the workload for human translators
     - Using Word Sense Disambiguation in Statistical Machine Translation system We proposed an integration of a Word Sense Disambiguation module into the Statistical Machine Translation system, achieving precise word selection based on context for improved translation accuracy. [\[paper\].](https://aclanthology.org/I13-1143.pdf)
 
-
-
-  
+#### Internship
+- 2015 - 2016: National Institute of Informatics (NII)
+  - [Miyao Group](https://mynlp.is.s.u-tokyo.ac.jp/en/)   
+  - Advisors: Assoc. Prof. [Yusuke Miyao](http://researchmap.jp/yusuke/) and Asst. Prof. [Pascual Martínez-Gómez](http://researchmap.jp/pascual/?lang=english)
+    - Dependency Tree Transducer for Question and Answering
+- 2013 - 2013: Nara Institute of Science and Technology (NAIST)
+  - [Augmented Human Communication Laboratory (AHC)](https://ahcweb01.naist.jp/en/)
+  - Advisors: Prof. [Satoshi Nakamura](https://ahclab.naist.jp/Prof.Nakamura/index_e.html) and Asst. Prof. [Graham Neubig](https://www.phontron.com/index.php)
+    - Gathering bilingual corpora for uncommon language pairs
   
 You can also [download the detail PDF here](https://google.com)
 <!-- I embed a current version of my CV below. You can also [download the PDF here](https://www.dropbox.com/s/30ah9tgxevj1vl9/svm-cv.pdf). -->
