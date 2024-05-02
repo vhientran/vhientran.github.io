@@ -92,7 +92,7 @@ permalink: /cv/
 
 #### Conference
 - Hiroyuki Deguchi, Kenji Imamura, Masahiro Kaneko, Yuto Nishida, Yusuke Sakai, Justin Vasselli, Huy Hien Vu, Taro Watanabe:NAIST-NICT-TIT WMT22 General MT Task Submission. _Proceedings of the Seventh Conference on Machine Translation (WMT). 2022: 244 – 250_
-- Hoang–Quan Nguyen, Thuan–Minh Nguyen, Huy–Hien Vu, Van–Vinh Nguyen, Phuong–Thai Nguyen, Kieu–Hue Tran, Khac–Quy Dinh: An effective cover- age approach for attention-based neural machine translation. _NAFOSTED Conference on Information and Computer Science (NICS). 2019: 240 – 245_
+- Hoang–Quan Nguyen, Thuan–Minh Nguyen, Huy–Hien Vu, Van–Vinh Nguyen, Phuong–Thai Nguyen, Kieu–Hue Tran, Khac–Quy Dinh: An effective coverage approach for attention-based neural machine translation. _NAFOSTED Conference on Information and Computer Science (NICS). 2019: 240 – 245_
 - Minh–Thuan Nguyen, Van TanBui, Huy–Hien Vu, Phuong–Thai Nguven, Chi–Mai Luong: Enhancing the quality of Phrase-table in Statistical Machine Translation for Less-Common and Low-Resource Languages. _International Conference on Asian Language Processing (IALP). 2018: 165 – 170_
 - Phuong–Thai Nguyen, Van–Lam Pham, Thi–Thu–Ha Truong, Hoang–An Nguyen, Huy–Hien Vu, and Ngoc–Anh Tran: A Two–Phase Approach for Building Vietnamese WordNet. _The 8th Global Wordnet Conference (GWC2016) 2016: 259 – 264_
 - Hien Vu Huy, Phuong–Thai Nguyen, Tung–Lam Nguyen and M.L Nguyen: Bootstrapping Phrase–based Statistical Machine Translation via WSD Integration. _International Joint Conference on Natural Language Processing (IJCNLP) 2013: 1042 – 1046_
