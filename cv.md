@@ -102,7 +102,7 @@ permalink: /cv/
 
 
 
-You can also [download the detail PDF here](https://u.pcloud.link/publink/show?code=XZpmXS0Zahskiz338wX5wYGwqLmKRjscXaVy)
+You can also [download the detail PDF here](https://u.pcloud.link/publink/show?code=XZNxzj0ZBhecjxn1eoYc1xqaXcM9O8GBjjo7)
 <!-- I embed a current version of my CV below. You can also [download the PDF here](https://www.dropbox.com/s/30ah9tgxevj1vl9/svm-cv.pdf). -->
 
 <!-- {% include embedpdf.html code="30ah9tgxevj1vl9/svm-cv.pdf" width=100 height=800 %} -->
