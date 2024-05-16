@@ -67,7 +67,7 @@ permalink: /cv/
 
 #### Other Experience
 - 2014 - 2015: Natural Language Processing Engineer
-  - Datasection Vietnam, Hanoi – South Asian Branch of D.A.Consortium Inc., Japan.
+  - Datasection Vietnam, Hanoi – South East Asian Branch of D.A.Consortium Inc., Japan.
   - Position Responsibilities:
 
     - Efficient Vietnamese Word Segmentation for Social Networks: Developed a high-performance word segmentation system tailored for processing Social Network Services data, optimizing for speed and accuracy in Vietnamese text analysis.
