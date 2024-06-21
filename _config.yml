@@ -1,21 +1,20 @@
 # Site settings
-title: Hien Vu 
-email: hienvuhuy at gmail / vu.huy_hien.va9 at is.naist.jp
+title: Van Hien Tran
+email: tran.vanhien at nict.go.jp
 description: # this means to ignore newlines until "baseurl:"
  
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://hienvuhuy.github.io" # the base hostname & protocol for your site
+url: "http://vhientran.github.io" # the base hostname & protocol for your site
 
-google_scholar_id: Ad7qF-YAAAAJ
-twitter_username: hienvuhuy
-github_username:  hienvuhuy
+google_scholar_id: Pi48KT8AAAAJ
+github_username:  vhientran
 
 # Build settings
 markdown: kramdown
 
 # Other options
 permalink: blog/:year/:month/:title
-job.title: "Ph.D. Student"
+job.title: "Postdoctoral Researcher"
 excerpt_separator: "<!--more-->"
 
 # SEO stuff
